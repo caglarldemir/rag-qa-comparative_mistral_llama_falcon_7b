@@ -23,11 +23,14 @@ Model	Model Load (s)
 LLaMA 2 7B	7.04
 Falcon 7B	59.48
 Mistral 7B	165.29
+
 Answer Generation Performance
 Model	Average Answer Time (s)	Quality Rating
 LLaMA 2 7B	3.08	⭐⭐⭐⭐
 Falcon 7B	8.92	⭐⭐⭐
 Mistral 7B	23.78	⭐⭐⭐⭐⭐
+
+
 Sample Q&A Results
 Model	Answer Time	Response Quality
 LLaMA 2 7B	2.21s	Concise, accurate definition
