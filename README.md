@@ -33,6 +33,6 @@ Mistral 7B	23.78	⭐⭐⭐⭐⭐
 
 Sample Q&A Results
 Model	Answer Time	Response Quality
-LLaMA 2 7B	2.21s	Concise, accurate definition,
-Falcon 7B	10.06s	Brief, factual response,
-Mistral 7B	20.90s	Detailed, comprehensive explanation
+LLaMA 2 7B	2.21s	Concise, accurate definition, good quality
+Falcon 7B	10.06s	Brief, factual response, good quality
+Mistral 7B	20.90s	Detailed, comprehensive explanation, high quality
