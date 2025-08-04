@@ -27,7 +27,7 @@ Mistral 7B	165.29
 Answer Generation Performance
 Model	Average Answer Time (s)	Quality Rating
 LLaMA 2 7B	3.08	⭐⭐⭐⭐,
-Falcon 7B	8.92	⭐⭐⭐,
+Falcon 7B	8.92	⭐⭐⭐⭐,
 Mistral 7B	23.78	⭐⭐⭐⭐⭐
 
 
